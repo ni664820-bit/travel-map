@@ -22,11 +22,6 @@ html, body {
   height: 100%;
   font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
   background: var(--bg-primary);
-  background-image: url('../694b53224e5e2e451b2811242690b05b.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
   color: var(--text-primary);
   overflow-x: hidden;
 }
